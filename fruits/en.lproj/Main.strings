@@ -1,0 +1,66 @@
+
+/* Class = "UITextView"; text = "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.\n\nApples grown from seed tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. Generally, apple cultivars are propagated by clonal grafting onto rootstocks. Apple trees grown without rootstocks tend to be larger and much slower to fruit after planting. Rootstocks are used to control the speed of growth and the size of the resulting tree, allowing for easier harvesting.\n\nThere are more than 7,500 known cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to a number of fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.\n\nWorldwide production of apples in 2018 was 86 million tonnes, with China accounting for nearly half of the total."; ObjectID = "2XR-6c-nop"; */
+"2XR-6c-nop.text" = "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.\n\nApples grown from seed tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. Generally, apple cultivars are propagated by clonal grafting onto rootstocks. Apple trees grown without rootstocks tend to be larger and much slower to fruit after planting. Rootstocks are used to control the speed of growth and the size of the resulting tree, allowing for easier harvesting.\n\nThere are more than 7,500 known cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to a number of fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.\n\nWorldwide production of apples in 2018 was 86 million tonnes, with China accounting for nearly half of the total.";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "4f1-RU-SzK"; */
+"4f1-RU-SzK.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4f1-RU-SzK"; */
+"4f1-RU-SzK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "World of Fruits"; ObjectID = "4pZ-o1-Hfr"; */
+"4pZ-o1-Hfr.text" = "World of Fruits";
+
+/* Class = "UINavigationItem"; title = "Back"; ObjectID = "5jP-N7-cif"; */
+"5jP-N7-cif.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "70S-Ug-81j"; */
+"70S-Ug-81j.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Information:"; ObjectID = "D7a-zy-1TZ"; */
+"D7a-zy-1TZ.text" = "Information:";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Hsr-P4-ptP"; */
+"Hsr-P4-ptP.placeholder" = "Email";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "LRM-xI-hom"; */
+"LRM-xI-hom.title" = "Back";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "MJ7-eg-ofg"; */
+"MJ7-eg-ofg.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MJ7-eg-ofg"; */
+"MJ7-eg-ofg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "MXw-g1-Amm"; */
+"MXw-g1-Amm.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MXw-g1-Amm"; */
+"MXw-g1-Amm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Fruits Name"; ObjectID = "T9P-SN-KM6"; */
+"T9P-SN-KM6.text" = "Fruits Name";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "Z4I-gU-HRe"; */
+"Z4I-gU-HRe.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "coQ-dh-PVc"; */
+"coQ-dh-PVc.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "e96-nL-G3A"; */
+"e96-nL-G3A.placeholder" = "First name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gIA-hN-bVH"; */
+"gIA-hN-bVH.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "r8g-Lf-ykJ"; */
+"r8g-Lf-ykJ.text" = "Error";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "rRy-Nr-5Oh"; */
+"rRy-Nr-5Oh.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rRy-Nr-5Oh"; */
+"rRy-Nr-5Oh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "v1I-9Z-nQ7"; */
+"v1I-9Z-nQ7.text" = "Error";
