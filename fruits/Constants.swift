@@ -14,12 +14,3 @@ struct Constants {
         static let HomeViewC = "HomeVC"
     }
 }
-
-/*struct Constants2 {
-    
-    struct Storyboard {
-        
-        static let logoutVC = "LogoutVC"
-    }
-}
-*/

@@ -3,4 +3,22 @@
    uuid = "DA0BAF61-F49A-4747-84CB-7A7A4EBC5A8B"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD5FE062-B474-4FBB-A2E3-69A148DE4C85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/fruits-azkrgarfcvguymebijjsdgjaubmq/SourcePackages/checkouts/boringssl-SwiftPM/ios-aarch64/crypto/chacha/chacha-armv8.S"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
