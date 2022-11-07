@@ -1,10 +1,1 @@
 # fruits
-# fruits
-# fruits
-# fruits
-# AnarSuleymanli
-# fruits
-# fruits
-# fruits
-# fruits
-# fruits
